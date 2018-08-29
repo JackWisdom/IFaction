@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QwLib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mctst/plugins/QwLib.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

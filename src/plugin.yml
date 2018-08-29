@@ -1,0 +1,39 @@
+name: QFaction
+version: 0.1
+main: git.jw.mcp.qfaction.QFaction
+softdepend: [QVote,QwLib]
+commands:
+ fally:
+   usage: /fally 帮派 -单方面结盟
+ funally:
+   usage: /funally 帮派 -取消单方面结盟
+ faccept:
+   usage: /faccept 玩家 -同意某玩家的加入请求
+ fclaim:
+   usage: /fclaim -领取脚下的地
+ funclaim:
+  usage: /funclaim -取消领取脚下的地
+ fcreate:
+  usage: /fcreate 名字 -创建帮派
+ fdonate:
+  usage: /fdonate 会长 能量 -给副会长以及会长卷能量
+ fup:
+  usage: /fup 名字 -给人副会长权限
+ fdown:
+  usage: /fdown 名字 -取消给会长权限
+ finfo:
+  usage: /finfo -查看自己的工会和能量
+ fjoin:
+  usage: /fjoin 会长 -加入某工会
+ fkick:
+  usage: /fkick 名字 -T某人出工会
+ fleave:
+  usage: /fleave -退出工会
+ fsetspawn:
+  usage: /fsetspawn -设置帮派出生点
+ fhome:
+  usage: /fhome -回到帮派出生点
+ fname:
+  usage: /fname 名字 -设置帮派前缀
+ fpa:
+  usage: /fpa name power

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="QFaction">
+    <output-path>$PROJECT_DIR$/../mctst/plugins</output-path>
+    <root id="archive" name="QFaction.jar">
+      <element id="module-output" name="IFaction" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QwVote">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../mctst/plugins/QwVote.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

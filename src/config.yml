@@ -1,0 +1,10 @@
+create-cost: 5
+power-gain-online: 1
+#perhour
+donate-cost: 1
+upcost: 1
+accept-cost: 1
+name-cost: 1
+#最多5个盟友 5个副帮主
+claim-worlds:
+- world
